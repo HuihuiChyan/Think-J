@@ -3,7 +3,7 @@
 This repository is for Think-J: Learning to Think for Generative LLM-as-a-Judge
 
 
-# ⚡️ Usage
+## ⚡️ Usage
 
 ### Preparation
 
@@ -117,6 +117,6 @@ python3.10 star/eval_reward_bench.py \
     --prompt-type ${PROMPT}_judge_prompt \
 ```
 
-# Acknowledge
+## Acknowledge
 
 This repository is built on [Llama-Factory](https://github.com/hiyouga/LLaMA-Factory) and [verl](https://github.com/volcengine/verl). Many thanks to their excellent work!
