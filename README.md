@@ -11,7 +11,7 @@ Our implementation is based on [Llama-Factory](https://github.com/hiyouga/LLaMA-
 
 For initialization data, we use the preference data from [Skywork](https://huggingface.co/datasets/Skywork/Skywork-Reward-Preference-80K-v0.2), and we present the processed data with thinking trace annotation in `data` directory.
 
-For thinking optimiazation, we use the preference data from [Helpsteer2](https://huggingface.co/datasets/nvidia/HelpSteer2) and HH-RLHF(https://huggingface.co/datasets/Anthropic/hh-rlhf). To achieve the strength annotation, we leverage the preference annotation from [hh-rlhf-strength-cleaned](https://huggingface.co/datasets/fnlp/hh-rlhf-strength-cleaned). Please download them and present them in your data directory.
+For thinking optimiazation, we use the preference data from [Helpsteer2](https://huggingface.co/datasets/nvidia/HelpSteer2) and [HH-RLHF](https://huggingface.co/datasets/Anthropic/hh-rlhf). To achieve the strength annotation, we leverage the preference annotation from [hh-rlhf-strength-cleaned](https://huggingface.co/datasets/fnlp/hh-rlhf-strength-cleaned). Please download them and present them in your data directory.
 
 ### Judgment Thinking Initilization
 
